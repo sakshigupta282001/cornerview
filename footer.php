@@ -55,7 +55,7 @@
 
 <li>
 <i class='bx bx-home-smile'></i>
-<a href="">Saidham Temple W.E highway, Ground Floor, Shop No. 63, VMall Apartment, Asha Nagar Road, Kandivali East, Mumbai, Maharastra, 400101</a>
+<a href="">Saidham Temple W.E highway, Second Floor, Office No. 209, VMall Apartment, Asha Nagar Road, Kandivali East, Mumbai, Maharastra, 400101</a>
 </li>
 <li>
 <i class='bx bx-phone'></i>
